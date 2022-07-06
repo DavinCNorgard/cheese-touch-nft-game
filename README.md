@@ -1,1 +1,1 @@
-# hot-potato-nft-game
+# cheese-touch-nft-game
